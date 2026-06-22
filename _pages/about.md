@@ -23,6 +23,8 @@ My research interest includes interactive video generation and embodied intellig
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 We release DreamX World and PermaVid, marking significant progress in building interactive and consistent video world models!!
+- *2026.06*: &nbsp;🎉🎉 One paper accepted to ECCV 2026, thanks to all co-authors!!
 - *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026, thanks to all co-authors!!
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to ACL Findings 2026, thanks to all co-authors!!
 - *2026.03*: &nbsp;🎉🎉 One paper accepted to ICME 2026, thanks to all co-authors!!
@@ -35,6 +37,89 @@ My research interest includes interactive video generation and embodied intellig
 - *2022.08*: &nbsp;🎉🎉 One first-author paper accepted to Information Sciences 2022, thanks to all co-authors!!
 
 # 📝 Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2026</div>
+      <img src='images/overview_dreamx_world.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://arxiv.org/abs/2606.16993">
+      DreamX-World: A General-Purpose Interactive World Model
+      </a>
+    </p>
+    <p>
+      DreamX Team
+    </p>
+    <p>
+      Arxiv 2026
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2606.16993"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Paper
+      </a>
+      <a href="https://amap-ml.github.io/DreamX_World"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Project
+      </a>
+      <a href="https://huggingface.co/GD-ML/DreamX-World-5B"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+         Model
+      </a>
+    </p>
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ECCV 2026</div>
+      <img src='images/overview_permavid.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://arxiv.org/abs/2606.16449">
+      PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory
+      </a>
+    </p>
+    <p>
+      Shuai Yang*, <b>Bingjie Gao*</b>, Ziwei Liu, Jiaqi Wang, Dahua Lin, Tong Wu
+    </p>
+    <p><sup>*</sup>Equal contribution</p>
+    <p>
+      European Conference on Computer Vision (ECCV) 2026
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2606.16449"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Paper
+      </a>
+      <a href="https://ys-imtech.github.io/projects/PermaVid/"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Project
+      </a>
+      <a href="https://github.com/YS-IMTech/PermaVid"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Code
+      </a>
+      <a href="https://huggingface.co/datasets/ysmikey/PermaVid_datasets"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+         Dataset
+      </a>
+    </p>
+
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
