@@ -80,7 +80,7 @@ My research interest includes interactive video generation and embodied intellig
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ECCV 2026</div>
+      <div class="badge">Arxiv 2026</div>
       <img src='images/overview_permavid.jpg' alt="sym" width="100%">
     </div>
   </div>
@@ -96,7 +96,7 @@ My research interest includes interactive video generation and embodied intellig
     </p>
     <p><sup>*</sup>Equal contribution</p>
     <p>
-      European Conference on Computer Vision (ECCV) 2026
+      Arxiv 2026
     </p>
     <p>
       <a href="https://arxiv.org/abs/2606.16449"
