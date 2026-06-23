@@ -23,7 +23,7 @@ My research interest includes interactive video generation and embodied intellig
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 We release DreamX World and PermaVid, marking significant progress in building interactive and consistent video world models!!
+- *2026.06*: &nbsp;🎉🎉 We release DreamX World and PermaVid, marking progress in building interactive and consistent video world models!!
 - *2026.06*: &nbsp;🎉🎉 One paper accepted to ECCV 2026, thanks to all co-authors!!
 - *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026, thanks to all co-authors!!
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to ACL Findings 2026, thanks to all co-authors!!
