@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a third-year Ph.D. student at School of Computer Science and Technology, Shanghai Jiao Tong University, supervised by Prof. [Li Niu](https://www.ustcnewly.com/). Prior to this, I earned my Bachelor’s degree from School of Computer Science and Technology, University of Electronic Science and Technology of China in 2023.
+Hi! I am a fourth-year Ph.D. student at School of Computer Science and Technology, Shanghai Jiao Tong University, supervised by Prof. [Li Niu](https://www.ustcnewly.com/). Prior to this, I earned my Bachelor’s degree from School of Computer Science and Technology, University of Electronic Science and Technology of China in 2023.
 
 My research interest includes interactive video generation and embodied intelligence. I expect to graduate in Summer 2028 and am actively seeking internship opportunities (remote or onsite). Please feel free to contact me at whynothaha@sjtu.edu.cn.
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Three papers accepted to NeurIPS 2026 (including two co-first-author papers), thanks to all co-authors!!
 - *2026.06*: &nbsp;🎉🎉 We release DreamX World and PermaVid, marking progress in building interactive and consistent video world models!!
 - *2026.06*: &nbsp;🎉🎉 One paper accepted to ECCV 2026, thanks to all co-authors!!
 - *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026, thanks to all co-authors!!
@@ -30,7 +31,7 @@ My research interest includes interactive video generation and embodied intellig
 - *2026.03*: &nbsp;🎉🎉 One paper accepted to ICME 2026, thanks to all co-authors!!
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to WWW 2026, thanks to all co-authors!!
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2026, thanks to all co-authors!!
-- *2026.01*: &nbsp;🎉🎉 One first-author paper accepted to ICASSP 2026, thanks to all co-authors!!
+- *2026.01*: &nbsp;🎉🎉 One co-first-author paper accepted to ICASSP 2026, thanks to all co-authors!!
 - *2025.03*: &nbsp;🎉🎉 One first-author paper accepted to ICME 2025, thanks to all co-authors!!
 - *2025.02*: &nbsp;🎉🎉 One first-author paper accepted to CVPR 2025, thanks to all co-authors!!
 - *2024.02*: &nbsp;🎉🎉 One first-author paper accepted to Pattern Recognition 2024, thanks to all co-authors!!
@@ -80,7 +81,7 @@ My research interest includes interactive video generation and embodied intellig
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Arxiv 2026</div>
+      <div class="badge">Neural Information Processing Systems (NeurIPS) 2026</div>
       <img src='images/overview_permavid.jpg' alt="sym" width="100%">
     </div>
   </div>
@@ -96,7 +97,7 @@ My research interest includes interactive video generation and embodied intellig
     </p>
     <p><sup>*</sup>Equal contribution</p>
     <p>
-      Arxiv 2026
+      Neural Information Processing Systems (NeurIPS) 2026
     </p>
     <p>
       <a href="https://arxiv.org/abs/2606.16449"
