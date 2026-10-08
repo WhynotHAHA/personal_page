@@ -43,30 +43,38 @@ My research interest includes interactive video generation and embodied intellig
   <div class='paper-box-image'>
     <div>
       <div class="badge">Arxiv 2026</div>
-      <img src='images/overview_arps.png' alt="ARPS overview" width="100%">
+      <img src='images/overview_dreamx_world.jpg' alt="sym" width="100%">
     </div>
   </div>
 
-<div class='paper-box-text'>
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://arxiv.org/abs/2606.16993">
+      DreamX-World: A General-Purpose Interactive World Model
+      </a>
+    </p>
+    <p>
+      DreamX Team
+    </p>
+    <p>
+      Arxiv 2026
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2606.16993"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Paper
+      </a>
+      <a href="https://amap-ml.github.io/DreamX_World"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Project
+      </a>
+      <a href="https://huggingface.co/GD-ML/DreamX-World-5B"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+         Model
+      </a>
+    </p>
 
-<p>
-  <a href="https://arxiv.org/abs/2609.23369">The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models</a>
-</p>
-
-<p>
-Qiwen Gu, Jifan Li, <b>Bingjie Gao</b>, Rui Chen, Jing Tang, Xiangxiang Chu, Junqiao Zhao
-</p>
-
-<p>Arxiv 2026</p>
-
-<p>
-  <a href="https://arxiv.org/abs/2609.23369"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-      Paper
-  </a>
-</p>
-
-</div>
+  </div>
 </div>
 
 
@@ -97,6 +105,10 @@ Qiwen Gu*, <b>Bingjie Gao*</b>, Rui Chen, Geng Li, Jifan Li, Qishuai Wen, Li Niu
       style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
       Paper
   </a>
+  <a href="https://github.com/AMAP-ML/R2MBench"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Code
+  </a>
 </p>
 
 </div>
@@ -106,7 +118,82 @@ Qiwen Gu*, <b>Bingjie Gao*</b>, Rui Chen, Geng Li, Jifan Li, Qishuai Wen, Li Niu
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Neural Information Processing Systems (NeurIPS) 2026</div>
+      <div class="badge">NeurIPS 2026</div>
+      <img src='images/overview_permavid.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://arxiv.org/abs/2606.16449">
+      PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory
+      </a>
+    </p>
+    <p>
+      Shuai Yang*, <b>Bingjie Gao*</b>, Ziwei Liu, Jiaqi Wang, Dahua Lin, Tong Wu
+    </p>
+    <p><sup>*</sup>Equal contribution</p>
+    <p>
+      Neural Information Processing Systems (NeurIPS) 2026
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2606.16449"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Paper
+      </a>
+      <a href="https://ys-imtech.github.io/projects/PermaVid/"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Project
+      </a>
+      <a href="https://github.com/YS-IMTech/PermaVid"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Code
+      </a>
+      <a href="https://huggingface.co/datasets/ysmikey/PermaVid_datasets"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+         Dataset
+      </a>
+    </p>
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2026</div>
+      <img src='images/overview_arps.png' alt="ARPS overview" width="100%">
+    </div>
+  </div>
+
+<div class='paper-box-text'>
+
+<p>
+  <a href="https://arxiv.org/abs/2609.23369">The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models</a>
+</p>
+
+<p>
+Qiwen Gu, Jifan Li, <b>Bingjie Gao</b>, Rui Chen, Jing Tang, Xiangxiang Chu, Junqiao Zhao
+</p>
+
+<p>Arxiv 2026</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2609.23369"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2026</div>
       <img src='images/overview_dlr.png' alt="Discrete Latent Reasoning overview" width="100%">
     </div>
   </div>
@@ -127,6 +214,10 @@ Shuochen Chang, Qingyang Liu, Shaobo Wang, <b>Bingjie Gao</b>, Qianli Ma, Haonan
   <a href="https://arxiv.org/abs/2606.29712"
       style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
       Paper
+  </a>
+  <a href="https://github.com/Miraclecsc/Discrete-Latent-Reasoning"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Code
   </a>
 </p>
 
@@ -168,88 +259,6 @@ Jiacheng Sui*, Tianyu Hao*, <b>Bingjie Gao</b>, Li Niu, Guangtao Zhai
 </p>
 
 </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Arxiv 2026</div>
-      <img src='images/overview_dreamx_world.jpg' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://arxiv.org/abs/2606.16993">
-      DreamX-World: A General-Purpose Interactive World Model
-      </a>
-    </p>
-    <p>
-      DreamX Team
-    </p>
-    <p>
-      Arxiv 2026
-    </p>
-    <p>
-      <a href="https://arxiv.org/abs/2606.16993"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-         Paper
-      </a>
-      <a href="https://amap-ml.github.io/DreamX_World"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-         Project
-      </a>
-      <a href="https://huggingface.co/GD-ML/DreamX-World-5B"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
-         Model
-      </a>
-    </p>
-
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Neural Information Processing Systems (NeurIPS) 2026</div>
-      <img src='images/overview_permavid.jpg' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://arxiv.org/abs/2606.16449">
-      PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory
-      </a>
-    </p>
-    <p>
-      Shuai Yang*, <b>Bingjie Gao*</b>, Ziwei Liu, Jiaqi Wang, Dahua Lin, Tong Wu
-    </p>
-    <p><sup>*</sup>Equal contribution</p>
-    <p>
-      Neural Information Processing Systems (NeurIPS) 2026
-    </p>
-    <p>
-      <a href="https://arxiv.org/abs/2606.16449"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-         Paper
-      </a>
-      <a href="https://ys-imtech.github.io/projects/PermaVid/"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-         Project
-      </a>
-      <a href="https://github.com/YS-IMTech/PermaVid"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-         Code
-      </a>
-      <a href="https://huggingface.co/datasets/ysmikey/PermaVid_datasets"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
-         Dataset
-      </a>
-    </p>
-
-  </div>
 </div>
 
 
