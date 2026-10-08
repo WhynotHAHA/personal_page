@@ -43,6 +43,137 @@ My research interest includes interactive video generation and embodied intellig
   <div class='paper-box-image'>
     <div>
       <div class="badge">Arxiv 2026</div>
+      <img src='images/overview_arps.png' alt="ARPS overview" width="100%">
+    </div>
+  </div>
+
+<div class='paper-box-text'>
+
+<p>
+  <a href="https://arxiv.org/abs/2609.23369">The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models</a>
+</p>
+
+<p>
+Qiwen Gu, Jifan Li, <b>Bingjie Gao</b>, Rui Chen, Jing Tang, Xiangxiang Chu, Junqiao Zhao
+</p>
+
+<p>Arxiv 2026</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2609.23369"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2026</div>
+      <img src='images/overview_r2m_bench.png' alt="R2M-Bench overview" width="100%">
+    </div>
+  </div>
+
+<div class='paper-box-text'>
+
+<p>
+  <a href="https://arxiv.org/abs/2608.27328">R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models</a>
+</p>
+
+<p>
+Qiwen Gu*, <b>Bingjie Gao*</b>, Rui Chen, Geng Li, Jifan Li, Qishuai Wen, Li Niu, Jing Tang, Xiangxiang Chu, Junqiao Zhao
+</p>
+
+<p><sup>*</sup>Equal contribution</p>
+
+<p>Arxiv 2026</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2608.27328"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Neural Information Processing Systems (NeurIPS) 2026</div>
+      <img src='images/overview_dlr.png' alt="Discrete Latent Reasoning overview" width="100%">
+    </div>
+  </div>
+
+<div class='paper-box-text'>
+
+<p>
+  <a href="https://arxiv.org/abs/2606.29712">Why Struggle with Continuous Latents? Interpretable Discrete Latent Reasoning via Rendered Compression</a>
+</p>
+
+<p>
+Shuochen Chang, Qingyang Liu, Shaobo Wang, <b>Bingjie Gao</b>, Qianli Ma, Haonan Zhao, Yibo Miao, Yulin Sun, Zelin Peng, Jiangtong Li, Li Niu
+</p>
+
+<p>Neural Information Processing Systems (NeurIPS) 2026</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2606.29712"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ECCV 2026</div>
+      <img src='images/overview_icrdrag.jpg' alt="ICRDrag qualitative results" width="100%">
+    </div>
+  </div>
+
+<div class='paper-box-text'>
+
+<p>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-37490-5_26">In-Context Region-Based Drag: Drag Any Region to Any Shape</a>
+</p>
+
+<p>
+Jiacheng Sui*, Tianyu Hao*, <b>Bingjie Gao</b>, Li Niu, Guangtao Zhai
+</p>
+
+<p><sup>*</sup>Equal contribution</p>
+
+<p>European Conference on Computer Vision (ECCV) 2026</p>
+
+<p>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-37490-5_26"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+  <a href="https://github.com/bcmi/ICRDrag-Region-Drag-Editing"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Code
+  </a>
+</p>
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2026</div>
       <img src='images/overview_dreamx_world.jpg' alt="sym" width="100%">
     </div>
   </div>
