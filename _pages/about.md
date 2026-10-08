@@ -551,4 +551,29 @@ Qianli Ma, Siyu Wang, Yilin Chen, Yinhao Tang, Yixiang Yang, Chang Guo, <b>Bingj
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.03 - 2025.09*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="margin-right: 12px;">
+    <a href="https://github.com/AMAP-ML">
+      <img src="images/dreamx_team_logo.png" alt="DreamX Team logo" width="80">
+    </a>
+  </div>
+
+  <div>
+    <div><strong>2026.05 - Present</strong></div>
+    <div><a href="https://www.amap.com/">Alibaba AMAP</a>, <a href="https://github.com/AMAP-ML">DreamX Team</a>.</div>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 12px;">
+    <a href="https://github.com/Vchitect">
+      <img src="images/vchitect_logo.jpg" alt="Vchitect Team logo" width="80">
+    </a>
+  </div>
+
+  <div>
+    <div><strong>2024.03 - 2025.09</strong></div>
+    <div><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>, <a href="https://github.com/Vchitect">Vchitect Team</a>, China.</div>
+  </div>
+</div>
