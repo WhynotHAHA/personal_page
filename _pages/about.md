@@ -574,6 +574,6 @@ Qianli Ma, Siyu Wang, Yilin Chen, Yinhao Tang, Yixiang Yang, Chang Guo, <b>Bingj
 
   <div>
     <div><strong>2024.03 - 2025.09</strong></div>
-    <div><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>, <a href="https://github.com/Vchitect">Vchitect Team</a></div>
+    <div><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>, <a href="https://github.com/Vchitect">Vchitect Team</a>.</div>
   </div>
 </div>
