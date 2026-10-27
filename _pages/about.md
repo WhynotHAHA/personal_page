@@ -37,7 +37,7 @@ My research interest includes interactive video generation and embodied intellig
 - *2024.02*: &nbsp;🎉🎉 One first-author paper accepted to Pattern Recognition 2024, thanks to all co-authors!!
 - *2022.08*: &nbsp;🎉🎉 One first-author paper accepted to Information Sciences 2022, thanks to all co-authors!!
 
-# 📝 Publications 
+# 📄 Preprints
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -115,6 +115,95 @@ Qiwen Gu*, <b>Bingjie Gao*</b>, Rui Chen, Geng Li, Jifan Li, Qishuai Wen, Li Niu
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/overview_rapo_plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling](https://arxiv.org/abs/2510.20206)
+
+**Bingjie Gao**, Qianli Ma, Xiaoxue Wu, Shuai Yang, Guanzhou Lan, Haonan Zhao, Jiaxuan Chen, Qingyang Liu, Yu Qiao, Xinyuan Chen, Yaohui Wang, Li Niu
+
+<p>Arxiv 2025</p>
+<p>
+  <a href="https://arxiv.org/abs/2510.20206"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+  <a href="https://github.com/Vchitect/RAPO"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Code
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2026</div>
+      <img src='images/overview_arps.png' alt="ARPS overview" width="100%">
+    </div>
+  </div>
+
+<div class='paper-box-text'>
+
+<p>
+  <a href="https://arxiv.org/abs/2609.23369">The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models</a>
+</p>
+
+<p>
+Qiwen Gu, Jifan Li, <b>Bingjie Gao</b>, Rui Chen, Jing Tang, Xiangxiang Chu, Junqiao Zhao
+</p>
+
+<p>Arxiv 2026</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2609.23369"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+# 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2026</div>
+      <img src='images/overview_bayesian_grpo.png' alt="Bayesian GRPO framework" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://arxiv.org/abs/2610.25418">From Label Priors to Task Evidence: Efficient Long-Video Frame Selection via Bayesian GRPO</a>
+    </p>
+    <p>
+      Shuochen Chang*, <b>Bingjie Gao*</b>, Qingyang Liu, Qianli Ma, Yibo Miao, Haonan Zhao, Zhaohe Liao, Xiaofeng Zhang, Jiangtong Li<sup>†</sup>, Li Niu<sup>†</sup>
+    </p>
+    <p><sup>*</sup>Equal contribution. <sup>†</sup>Corresponding authors.</p>
+    <p>
+      Neural Information Processing Systems (NeurIPS) 2026
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2610.25418"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Paper
+      </a>
+      <a href="https://github.com/Miraclecsc/Frame_Selection_GRPO"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+         Code
+      </a>
+    </p>
+  </div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -160,27 +249,150 @@ Qiwen Gu*, <b>Bingjie Gao*</b>, Rui Chen, Geng Li, Jifan Li, Qishuai Wen, Li Niu
 
 
 <div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICASSP 2026</div>
+<img src='images/overview_animatescene.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text'>
+
+<a href="https://arxiv.org/abs/2508.05982">AnimateScene: Camera-controllable Animation in Any Scene</a>
+
+<p>
+<b>Qingyang Liu*</b>, <b>Bingjie Gao*</b>, Weiheng Huang, Jun Zhang, Zhongqian Sun, 
+Yang Wei, Fengrui Liu, Zelin Peng, Qianli Ma, Shuai Yang, Zhaohe Liao, Haonan Zhao, Li Niu
+</p>
+
+<p><sup>*</sup>Equal contribution</p>
+
+<p>International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2508.05982"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+  <a href="https://whynothaha.github.io/AnimateScene/AnimateScene.html"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Project
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Arxiv 2026</div>
-      <img src='images/overview_arps.png' alt="ARPS overview" width="100%">
+      <div class="badge">CVPR 2025</div>
+      <img src='images/overview_rapo.png' alt="sym" width="100%">
     </div>
   </div>
 
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_The_Devil_is_in_the_Prompts_Retrieval-Augmented_Prompt_Optimization_for_CVPR_2025_paper.pdf">
+      The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation
+      </a>
+    </p>
+    <p>
+      <b>Bingjie Gao</b>, Xinyu Gao, Xiaoxue Wu, Yujie Zhou, Yu Qiao, Li Niu, Xinyuan Chen, Yaohui Wang
+    </p>
+    <p>
+      Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+    </p>
+    <p>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_The_Devil_is_in_the_Prompts_Retrieval-Augmented_Prompt_Optimization_for_CVPR_2025_paper.pdf"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Paper
+      </a>
+      <a href="https://github.com/Vchitect/RAPO"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+         Code
+      </a>
+    </p>
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICME 2025</div>
+<img src='images/framework_icme.png' alt="sym" width="100%">
+</div>
+</div>
 <div class='paper-box-text'>
 
+<a href="https://arxiv.org/abs/2504.12029">Object Placement for Anything</a>
+
 <p>
-  <a href="https://arxiv.org/abs/2609.23369">The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models</a>
+<b>Bingjie Gao</b>, Bo Zhang, Li Niu
 </p>
 
+<p>International Conference on Multimedia and Expo (ICME) 2025</p>
+
 <p>
-Qiwen Gu, Jifan Li, <b>Bingjie Gao</b>, Rui Chen, Jing Tang, Xiangxiang Chu, Junqiao Zhao
+  <a href="https://arxiv.org/abs/2504.12029"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
 </p>
 
-<p>Arxiv 2026</p>
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">PR 2024</div>
+<img src='images/overview_hie_edt.png' alt="HIE-EDT framework" width="100%">
+</div>
+</div>
+<div class='paper-box-text'>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320323007379">HIE-EDT: Hierarchical interval estimation-based evidential decision tree</a>
 
 <p>
-  <a href="https://arxiv.org/abs/2609.23369"
+<b>Bingjie Gao</b>, Qianli Zhou, Yong Deng
+</p>
+
+<p>Pattern Recognition (PR) 2024</p>
+
+<p>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0031320323007379"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">INS 2022</div>
+<img src='images/overview_bim_afa.png' alt="BIM-AFA framework" width="100%">
+</div>
+</div>
+<div class='paper-box-text'>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0020025522007150">BIM-AFA: Belief information measure-based attribute fusion approach in improving the quality of uncertain data</a>
+
+<p>
+<b>Bingjie Gao</b>, Qianli Zhou, Yong Deng
+</p>
+
+<p>Information Sciences (INS) 2022</p>
+
+<p>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0020025522007150"
       style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
       Paper
   </a>
@@ -263,91 +475,32 @@ Jiacheng Sui*, Tianyu Hao*, <b>Bingjie Gao</b>, Li Niu, Guangtao Zhai
 
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2025</div>
-      <img src='images/overview_rapo.png' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_The_Devil_is_in_the_Prompts_Retrieval-Augmented_Prompt_Optimization_for_CVPR_2025_paper.pdf">
-      The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation
-      </a>
-    </p>
-    <p>
-      <b>Bingjie Gao</b>, Xinyu Gao, Xiaoxue Wu, Yujie Zhou, Yu Qiao, Li Niu, Xinyuan Chen, Yaohui Wang
-    </p>
-    <p>
-      Conference on Computer Vision and Pattern Recognition (CVPR) 2025
-    </p>
-    <p>
-      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_The_Devil_is_in_the_Prompts_Retrieval-Augmented_Prompt_Optimization_for_CVPR_2025_paper.pdf"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-         Paper
-      </a>
-      <a href="https://github.com/Vchitect/RAPO"
-         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
-         Code
-      </a>
-    </p>
-
-  </div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/overview_rapo_plus.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling](https://arxiv.org/abs/2510.20206)
-
-**Bingjie Gao**, Qianli Ma, Xiaoxue Wu, Shuai Yang, Guanzhou Lan, Haonan Zhao, Jiaxuan Chen, Qingyang Liu, Yu Qiao, Xinyuan Chen, Yaohui Wang, Li Niu
-
-<p>Arxiv 2025</p>
-<p>
-  <a href="https://arxiv.org/abs/2510.20206"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-      Paper
-  </a>
-  <a href="https://github.com/Vchitect/RAPO"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
-      Code
-  </a>
-</p>
-
-</div>
-</div>
-
-
-<div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">ICASSP 2026</div>
-<img src='images/overview_animatescene.png' alt="sym" width="100%">
+<div class="badge">ACL Findings 2026</div>
+<img src='images/overview_autopage.png' alt="AutoPage overview" width="100%">
 </div>
 </div>
 <div class='paper-box-text'>
 
-<a href="https://arxiv.org/abs/2508.05982">AnimateScene: Camera-controllable Animation in Any Scene</a>
+<a href="https://arxiv.org/abs/2510.19600">Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1</a>
 
 <p>
-<b>Qingyang Liu*</b>, <b>Bingjie Gao*</b>, Weiheng Huang, Jun Zhang, Zhongqian Sun, 
-Yang Wei, Fengrui Liu, Zelin Peng, Qianli Ma, Shuai Yang, Zhaohe Liao, Haonan Zhao, Li Niu
+Qianli Ma, Siyu Wang, Yilin Chen, Yinhao Tang, Yixiang Yang, Chang Guo, <b>Bingjie Gao</b>, Zhening Xing, Yanan Sun, Zhipeng Zhang
 </p>
 
-<p><sup>*</sup>Equal contribution</p>
-
-<p>International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026</p>
+<p>Findings of the Association for Computational Linguistics (ACL Findings) 2026</p>
 
 <p>
-  <a href="https://arxiv.org/abs/2508.05982"
+  <a href="https://arxiv.org/abs/2510.19600"
       style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
       Paper
   </a>
-  <a href="https://whynothaha.github.io/AnimateScene/AnimateScene.html"
+  <a href="https://github.com/AutoLab-SAI-SJTU/AutoPage"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Code
+  </a>
+  <a href="https://mqleet.github.io/AutoPage_ProjectPage/"
       style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
       Project
   </a>
@@ -360,22 +513,22 @@ Yang Wei, Fengrui Liu, Zelin Peng, Qianli Ma, Shuai Yang, Zhaohe Liao, Haonan Zh
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">ICME 2025</div>
-<img src='images/framework_icme.png' alt="sym" width="100%">
+<div class="badge">WWW 2026</div>
+<img src='images/overview_dramaqa.png' alt="Short drama quality assessment framework" width="100%">
 </div>
 </div>
 <div class='paper-box-text'>
 
-<a href="https://arxiv.org/abs/2504.12029">Object Placement for Anything</a>
+<a href="https://openreview.net/forum?id=Fkwvsf7U8N&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DACM.org%2FTheWebConf%2F2026%2FIndustry%2FAuthors%23your-submissions)">Bridging Visual Dynamics and Narrative Reasoning: Multimodal Large Language Models for Short Drama Quality Assessment</a>
 
 <p>
-<b>Bingjie Gao</b>, Bo Zhang, Li Niu
+Qingyang Liu, Jiangtong Li, Zelin Peng, Shaobo Wang, Zhaohe Liao, Shuochen Chang, <b>Bingjie Gao</b>, Haonan Zhao, Mu Liu, Jidong Jiang, Li Niu
 </p>
 
-<p>International Conference on Multimedia and Expo (ICME) 2025</p>
+<p>The ACM Web Conference (WWW) 2026 Industry Track</p>
 
 <p>
-  <a href="https://arxiv.org/abs/2504.12029"
+  <a href="https://openreview.net/forum?id=Fkwvsf7U8N&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DACM.org%2FTheWebConf%2F2026%2FIndustry%2FAuthors%23your-submissions"
       style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
       Paper
   </a>
@@ -386,6 +539,12 @@ Yang Wei, Fengrui Liu, Zelin Peng, Qianli Ma, Shuai Yang, Zhaohe Liao, Haonan Zh
 
 
 <div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICLR 2026</div>
+<img src='images/overview_cinetrans.png' alt="CineTrans multi-shot videos" width="100%">
+</div>
+</div>
 <div class='paper-box-text'>
 
 <a href="https://arxiv.org/abs/2508.11484">Cinetrans: Learning to generate videos with cinematic transitions via masked diffusion models</a>
@@ -413,104 +572,6 @@ Xiaoxue Wu, <b>Bingjie Gao</b>, Yu Qiao, Yaohui Wang, Xinyuan Chen
 
 </div>
 </div>
-
-
-<div class='paper-box'>
-<div class='paper-box-text'>
-
-<a href="https://openreview.net/forum?id=Fkwvsf7U8N&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DACM.org%2FTheWebConf%2F2026%2FIndustry%2FAuthors%23your-submissions)">Bridging Visual Dynamics and Narrative Reasoning: Multimodal Large Language Models for Short Drama Quality Assessment</a>
-
-<p>
-Qingyang Liu, Jiangtong Li, Zelin Peng, Shaobo Wang, Zhaohe Liao, Shuochen Chang, <b>Bingjie Gao</b>, Haonan Zhao, Mu Liu, Jidong Jiang, Li Niu
-</p>
-
-<p>The ACM Web Conference (WWW) 2026 Industry Track</p>
-
-<p>
-  <a href="https://openreview.net/forum?id=Fkwvsf7U8N&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DACM.org%2FTheWebConf%2F2026%2FIndustry%2FAuthors%23your-submissions"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-      Paper
-  </a>
-</p>
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-<div class='paper-box-text'>
-
-<a href="https://arxiv.org/abs/2510.19600">Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1</a>
-
-<p>
-Qianli Ma, Siyu Wang, Yilin Chen, Yinhao Tang, Yixiang Yang, Chang Guo, <b>Bingjie Gao</b>, Zhening Xing, Yanan Sun, Zhipeng Zhang
-</p>
-
-<p>Arxiv 2025</p>
-
-<p>
-  <a href="https://arxiv.org/abs/2510.19600"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-      Paper
-  </a>
-  <a href="https://github.com/AutoLab-SAI-SJTU/AutoPage"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
-      Code
-  </a>
-  <a href="https://mqleet.github.io/AutoPage_ProjectPage/"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
-      Project
-  </a>
-</p>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'>
-<div class='paper-box-text'>
-
-<a href="https://www.sciencedirect.com/science/article/pii/S0031320323007379">HIE-EDT: Hierarchical interval estimation-based evidential decision tree</a>
-
-<p>
-<b>Bingjie Gao</b>, Qianli Zhou, Yong Deng
-</p>
-
-<p>Pattern Recognition (PR) 2024</p>
-
-<p>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0031320323007379"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-      Paper
-  </a>
-</p>
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-<div class='paper-box-text'>
-
-<a href="https://www.sciencedirect.com/science/article/pii/S0020025522007150">BIM-AFA: Belief information measure-based attribute fusion approach in improving the quality of uncertain data</a>
-
-<p>
-<b>Bingjie Gao</b>, Qianli Zhou, Yong Deng
-</p>
-
-<p>Information Sciences (INS) 2022</p>
-
-<p>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0020025522007150"
-      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
-      Paper
-  </a>
-</p>
-
-</div>
-</div>
-
 
 
 
